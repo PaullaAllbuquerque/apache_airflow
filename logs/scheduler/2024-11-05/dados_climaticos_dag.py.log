@@ -1,0 +1,173 @@
+[2024-11-05 15:21:00,286] {processor.py:153} INFO - Started process (PID=1058297) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:00,287] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:21:00,288] {logging_mixin.py:115} INFO - [2024-11-05 15:21:00,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:03,412] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:04,762] {logging_mixin.py:115} INFO - [2024-11-05 15:21:04,761] {manager.py:508} INFO - Created Permission View: can read on DAG:dados_climaticos
+[2024-11-05 15:21:04,954] {logging_mixin.py:115} INFO - [2024-11-05 15:21:04,953] {manager.py:508} INFO - Created Permission View: can delete on DAG:dados_climaticos
+[2024-11-05 15:21:05,134] {logging_mixin.py:115} INFO - [2024-11-05 15:21:05,133] {manager.py:508} INFO - Created Permission View: can edit on DAG:dados_climaticos
+[2024-11-05 15:21:05,135] {logging_mixin.py:115} INFO - [2024-11-05 15:21:05,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:21:05,168] {logging_mixin.py:115} INFO - [2024-11-05 15:21:05,166] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2024-11-05 15:21:05,185] {logging_mixin.py:115} INFO - [2024-11-05 15:21:05,185] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:21:05,409] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 5.126 seconds
+[2024-11-05 15:21:49,419] {processor.py:153} INFO - Started process (PID=1058622) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:49,435] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:21:49,436] {logging_mixin.py:115} INFO - [2024-11-05 15:21:49,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:49,796] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:21:49,806] {logging_mixin.py:115} INFO - [2024-11-05 15:21:49,805] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:21:49,821] {logging_mixin.py:115} INFO - [2024-11-05 15:21:49,821] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:21:49,906] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.490 seconds
+[2024-11-05 15:22:25,684] {processor.py:153} INFO - Started process (PID=1058843) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:22:25,701] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:22:25,701] {logging_mixin.py:115} INFO - [2024-11-05 15:22:25,701] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:22:26,087] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:22:26,098] {logging_mixin.py:115} INFO - [2024-11-05 15:22:26,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:22:26,114] {logging_mixin.py:115} INFO - [2024-11-05 15:22:26,114] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:22:26,204] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.523 seconds
+[2024-11-05 15:23:00,895] {processor.py:153} INFO - Started process (PID=1059056) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:00,915] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:23:00,915] {logging_mixin.py:115} INFO - [2024-11-05 15:23:00,915] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:01,285] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:01,296] {logging_mixin.py:115} INFO - [2024-11-05 15:23:01,296] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:23:01,314] {logging_mixin.py:115} INFO - [2024-11-05 15:23:01,314] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:23:01,418] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.528 seconds
+[2024-11-05 15:23:34,475] {processor.py:153} INFO - Started process (PID=1059288) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:34,498] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:23:34,499] {logging_mixin.py:115} INFO - [2024-11-05 15:23:34,499] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:34,862] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:23:34,871] {logging_mixin.py:115} INFO - [2024-11-05 15:23:34,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:23:34,888] {logging_mixin.py:115} INFO - [2024-11-05 15:23:34,888] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:23:34,994] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.524 seconds
+[2024-11-05 15:24:11,664] {processor.py:153} INFO - Started process (PID=1059517) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:11,684] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:24:11,685] {logging_mixin.py:115} INFO - [2024-11-05 15:24:11,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:12,097] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:12,117] {logging_mixin.py:115} INFO - [2024-11-05 15:24:12,117] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:24:12,149] {logging_mixin.py:115} INFO - [2024-11-05 15:24:12,149] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:24:12,256] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.602 seconds
+[2024-11-05 15:24:47,712] {processor.py:153} INFO - Started process (PID=1059744) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:47,738] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:24:47,739] {logging_mixin.py:115} INFO - [2024-11-05 15:24:47,739] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:48,086] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:24:48,098] {logging_mixin.py:115} INFO - [2024-11-05 15:24:48,098] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:24:48,115] {logging_mixin.py:115} INFO - [2024-11-05 15:24:48,115] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:24:48,201] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.492 seconds
+[2024-11-05 15:25:33,099] {processor.py:153} INFO - Started process (PID=1060120) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:25:33,100] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:25:33,100] {logging_mixin.py:115} INFO - [2024-11-05 15:25:33,100] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:25:33,435] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:25:33,446] {logging_mixin.py:115} INFO - [2024-11-05 15:25:33,446] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:25:33,460] {logging_mixin.py:115} INFO - [2024-11-05 15:25:33,459] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:25:33,575] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.479 seconds
+[2024-11-05 15:26:05,168] {processor.py:153} INFO - Started process (PID=1060314) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:26:05,178] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:26:05,179] {logging_mixin.py:115} INFO - [2024-11-05 15:26:05,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:26:05,498] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:26:05,531] {logging_mixin.py:115} INFO - [2024-11-05 15:26:05,530] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:26:05,539] {logging_mixin.py:115} INFO - [2024-11-05 15:26:05,539] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2024-11-05 15:26:05,549] {logging_mixin.py:115} INFO - [2024-11-05 15:26:05,549] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T00:00:00+00:00, run_after=2024-11-12T00:00:00+00:00
+[2024-11-05 15:26:05,657] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.494 seconds
+[2024-11-05 15:27:34,942] {processor.py:153} INFO - Started process (PID=1060746) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:27:34,956] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:27:34,956] {logging_mixin.py:115} INFO - [2024-11-05 15:27:34,956] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:27:35,445] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:27:35,504] {logging_mixin.py:115} INFO - [2024-11-05 15:27:35,503] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:27:35,528] {logging_mixin.py:115} INFO - [2024-11-05 15:27:35,528] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:27:35,711] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.772 seconds
+[2024-11-05 15:28:34,975] {processor.py:153} INFO - Started process (PID=1061207) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:28:35,000] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:28:35,000] {logging_mixin.py:115} INFO - [2024-11-05 15:28:35,000] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:28:35,424] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:28:35,441] {logging_mixin.py:115} INFO - [2024-11-05 15:28:35,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:28:35,460] {logging_mixin.py:115} INFO - [2024-11-05 15:28:35,460] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:28:35,581] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.609 seconds
+[2024-11-05 15:29:18,020] {processor.py:153} INFO - Started process (PID=1061482) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:29:18,020] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:29:18,021] {logging_mixin.py:115} INFO - [2024-11-05 15:29:18,021] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:29:18,401] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:29:18,414] {logging_mixin.py:115} INFO - [2024-11-05 15:29:18,414] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:29:18,437] {logging_mixin.py:115} INFO - [2024-11-05 15:29:18,437] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:29:18,518] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.502 seconds
+[2024-11-05 15:30:03,511] {processor.py:153} INFO - Started process (PID=1061789) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:03,512] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:30:03,513] {logging_mixin.py:115} INFO - [2024-11-05 15:30:03,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:03,853] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:03,871] {logging_mixin.py:115} INFO - [2024-11-05 15:30:03,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:30:04,037] {logging_mixin.py:115} INFO - [2024-11-05 15:30:04,037] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:30:04,239] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.730 seconds
+[2024-11-05 15:30:42,312] {processor.py:153} INFO - Started process (PID=1062024) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:42,335] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:30:42,335] {logging_mixin.py:115} INFO - [2024-11-05 15:30:42,335] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:42,638] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:30:42,647] {logging_mixin.py:115} INFO - [2024-11-05 15:30:42,647] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:30:42,662] {logging_mixin.py:115} INFO - [2024-11-05 15:30:42,661] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:30:42,751] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.442 seconds
+[2024-11-05 15:31:24,495] {processor.py:153} INFO - Started process (PID=1062271) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:31:24,511] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:31:24,512] {logging_mixin.py:115} INFO - [2024-11-05 15:31:24,512] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:31:24,816] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:31:24,825] {logging_mixin.py:115} INFO - [2024-11-05 15:31:24,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:31:24,839] {logging_mixin.py:115} INFO - [2024-11-05 15:31:24,839] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:28:00+00:00, run_after=2024-11-12T15:28:00+00:00
+[2024-11-05 15:31:24,950] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.460 seconds
+[2024-11-05 15:32:21,490] {processor.py:153} INFO - Started process (PID=1062609) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:32:21,533] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:32:21,533] {logging_mixin.py:115} INFO - [2024-11-05 15:32:21,533] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:32:22,182] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:32:22,356] {logging_mixin.py:115} INFO - [2024-11-05 15:32:22,356] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:32:22,490] {logging_mixin.py:115} INFO - [2024-11-05 15:32:22,489] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:32:22,662] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 1.177 seconds
+[2024-11-05 15:33:03,612] {processor.py:153} INFO - Started process (PID=1062873) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:03,612] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:33:03,613] {logging_mixin.py:115} INFO - [2024-11-05 15:33:03,613] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:03,957] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:03,981] {logging_mixin.py:115} INFO - [2024-11-05 15:33:03,980] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:33:03,998] {logging_mixin.py:115} INFO - [2024-11-05 15:33:03,998] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:33:04,156] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.549 seconds
+[2024-11-05 15:33:45,821] {processor.py:153} INFO - Started process (PID=1063180) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:45,822] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:33:45,823] {logging_mixin.py:115} INFO - [2024-11-05 15:33:45,823] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:46,129] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:33:46,138] {logging_mixin.py:115} INFO - [2024-11-05 15:33:46,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:33:46,152] {logging_mixin.py:115} INFO - [2024-11-05 15:33:46,151] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:33:46,283] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.465 seconds
+[2024-11-05 15:34:17,029] {processor.py:153} INFO - Started process (PID=1063449) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:17,030] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:34:17,030] {logging_mixin.py:115} INFO - [2024-11-05 15:34:17,030] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:17,329] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:17,338] {logging_mixin.py:115} INFO - [2024-11-05 15:34:17,338] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:34:17,351] {logging_mixin.py:115} INFO - [2024-11-05 15:34:17,351] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:34:17,476] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.451 seconds
+[2024-11-05 15:34:52,729] {processor.py:153} INFO - Started process (PID=1063733) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:52,743] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:34:52,744] {logging_mixin.py:115} INFO - [2024-11-05 15:34:52,744] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:53,074] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:34:53,085] {logging_mixin.py:115} INFO - [2024-11-05 15:34:53,085] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:34:53,103] {logging_mixin.py:115} INFO - [2024-11-05 15:34:53,103] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:34:53,188] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.462 seconds
+[2024-11-05 15:35:27,943] {processor.py:153} INFO - Started process (PID=1063954) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:35:27,944] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:35:27,945] {logging_mixin.py:115} INFO - [2024-11-05 15:35:27,944] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:35:28,257] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:35:28,266] {logging_mixin.py:115} INFO - [2024-11-05 15:35:28,266] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:35:28,280] {logging_mixin.py:115} INFO - [2024-11-05 15:35:28,280] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-05T15:33:00+00:00, run_after=2024-11-12T15:33:00+00:00
+[2024-11-05 15:35:28,399] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.459 seconds
+[2024-11-05 15:39:11,901] {processor.py:153} INFO - Started process (PID=1065063) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:39:11,937] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:39:11,938] {logging_mixin.py:115} INFO - [2024-11-05 15:39:11,938] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:39:12,323] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:39:12,378] {logging_mixin.py:115} INFO - [2024-11-05 15:39:12,377] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:39:12,393] {logging_mixin.py:115} INFO - [2024-11-05 15:39:12,393] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-10-28T00:00:00+00:00, run_after=2024-11-04T00:00:00+00:00
+[2024-11-05 15:39:12,751] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.852 seconds
+[2024-11-05 15:40:10,480] {processor.py:153} INFO - Started process (PID=1066038) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:10,501] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:40:10,502] {logging_mixin.py:115} INFO - [2024-11-05 15:40:10,501] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:10,911] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:10,920] {logging_mixin.py:115} INFO - [2024-11-05 15:40:10,920] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:40:10,935] {logging_mixin.py:115} INFO - [2024-11-05 15:40:10,934] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-04T00:00:00+00:00, run_after=2024-11-11T00:00:00+00:00
+[2024-11-05 15:40:11,054] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.577 seconds
+[2024-11-05 15:40:42,554] {processor.py:153} INFO - Started process (PID=1066271) to work on /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:42,554] {processor.py:641} INFO - Processing file /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py for tasks to queue
+[2024-11-05 15:40:42,554] {logging_mixin.py:115} INFO - [2024-11-05 15:40:42,554] {dagbag.py:507} INFO - Filling up the DagBag from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:42,887] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py
+[2024-11-05 15:40:42,897] {logging_mixin.py:115} INFO - [2024-11-05 15:40:42,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-11-05 15:40:42,913] {logging_mixin.py:115} INFO - [2024-11-05 15:40:42,913] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2024-11-04T00:00:00+00:00, run_after=2024-11-11T00:00:00+00:00
+[2024-11-05 15:40:43,000] {processor.py:161} INFO - Processing /home/paula/Documentos/airflow/dags/dados_climaticos_dag.py took 0.449 seconds
